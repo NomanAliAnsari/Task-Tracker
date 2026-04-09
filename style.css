@@ -247,7 +247,7 @@ body{
   align-items: center;
   gap: 0.4rem;
   position: sticky;
-  bottom: 0;
+  bottom: 5%;
   width: 100%;
 
 }  
