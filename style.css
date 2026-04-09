@@ -246,6 +246,10 @@ body{
   justify-content: center;
   align-items: center;
   gap: 0.4rem;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+
 }  
 #intro{
   font-size: 0.65rem;
