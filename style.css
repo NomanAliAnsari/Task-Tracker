@@ -110,6 +110,7 @@ body{
 .pendingBox{
   width: 80vw;
   max-width: 700px;
+  min-height: 25vh;
   margin: 1rem auto;
   padding: 0.5rem;
   /* background-image: linear-gradient(to bottom, #50cc7f 0%, #f5d100 100%);  */
@@ -195,6 +196,7 @@ body{
 .completedBox{
   width: 80vw;
   max-width: 700px;
+  min-height: 25vh;
   margin: 1rem auto;
   padding: 0.5rem;
   background-image: linear-gradient(to top, #50cc7f 0%, #fee140 100%); 
